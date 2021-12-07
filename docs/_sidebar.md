@@ -4,3 +4,5 @@
     * [《凤凰项目》读书笔记](phonenix_project/note.md)
     * [《编码:隐匿在计算机软硬件背后的语言》读书简记](code/note.md)
     * [《科学家列传》（壹）读书笔记](biography_of_scientists/note.md)
+    * [极客时间《Python自动化办公》学习笔记](python_office_automation/note.md)
+        * [Section01 “输入”模块：不同文件类型的批量合并和拆分问题](python_office_automation/section01.md)
