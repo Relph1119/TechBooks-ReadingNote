@@ -25,6 +25,9 @@ conda install --yes --file requirements.txt
 ### 安装Tesseract（用于离线文字识别）  
 可参考博客：https://blog.csdn.net/guliang21/article/details/86735822
 
+### 安装ImageMagick（用于长图拼接）
+可参考博客（Windows）：https://blog.csdn.net/qq_37674858/article/details/80361860
+
 ### Conda批量导出环境中所有组件
 ```shell
 conda list -e > requirements.txt
