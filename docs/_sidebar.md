@@ -7,3 +7,4 @@
     * [极客时间《Python自动化办公》学习笔记](python_office_automation/note.md)
         * [Section01 “输入”模块：不同文件类型的批量合并和拆分问题](python_office_automation/section01.md)
         * [Section02 “运算”模块：扩展常用的统计、搜索和排序功能](python_office_automation/section02.md)
+        * [Section03 “控制”模块：增强办公软件及周边软硬件的交互能力](python_office_automation/section03.md)
