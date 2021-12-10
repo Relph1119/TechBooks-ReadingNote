@@ -37,3 +37,7 @@ conda list -e > requirements.txt
 ```shell
 docsify serve ./docs
 ```
+
+## 学习资料
+【1】[Python 自动化办公实战课](https://time.geekbang.org/column/intro/100071001?tab=catalog)  
+【2】[QCon2019（广州站）](https://time.geekbang.org/course/intro/100028701?tab=catalog)
