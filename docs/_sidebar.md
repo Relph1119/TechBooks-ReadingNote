@@ -9,3 +9,4 @@
         * [Section02 “运算”模块：扩展常用的统计、搜索和排序功能](python_office_automation/section02.md)
         * [Section03 “控制”模块：增强办公软件及周边软硬件的交互能力](python_office_automation/section03.md)
         * [Section04 “存储”模块：和文件相关的常用操作](python_office_automation/section04.md)
+        * [Section05 “输出”模块：智能化输出自己的工作成果](python_office_automation/section05.md)

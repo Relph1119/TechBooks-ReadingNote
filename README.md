@@ -19,7 +19,8 @@ Mini-Conda Python 3.8 Windows环境
 ### Notebook运行环境配置
 安装相关的依赖包
 ```shell
-conda install --yes --file requirements.txt
+conda install --yes --file requirements_conda.txt
+pip install -r requirements_pipy.txt.txt
 ```
 
 ### 安装Tesseract（用于离线文字识别）  
@@ -30,7 +31,7 @@ conda install --yes --file requirements.txt
 
 ### Conda批量导出环境中所有组件
 ```shell
-conda list -e > requirements.txt
+conda list -e > requirements_conda.txt
 ```
 
 ### 本地启动docsify
