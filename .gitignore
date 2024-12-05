@@ -299,3 +299,4 @@ dmypy.json
 cython_debug/
 
 /.idea/
+/notes/python_office_automation/data/
